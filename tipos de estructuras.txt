@@ -1,0 +1,22 @@
+tipos de estructuras:
+universal
+tipo de etiquetas
+class
+convinado
+/*      */
+estructura de un selector
+selector{
+propiedad:valor;
+}
+backround->para el fondo
+margin->para el borde
+
+vh=height
+vw=widht
+
+grid= es una forma de agrupar las tablas. es una tabla de 50X50
+Tarea:
+el contrario de grid para el miércoles
+a todos los selectores debe llevar el display
+
+

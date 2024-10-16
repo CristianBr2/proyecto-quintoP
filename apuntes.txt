@@ -1,0 +1,22 @@
+*selectores:
+
+universal
+class
+id
+convinado
+
+*llamar y darle estilo a HTML:
+
+selector {
+    propiedad : valor;
+}
+
+*Para hacer tabla:
+
+grid (buscar el contrario de grid)
+display:grid;
+
+estructura de selectores: 
+selector{
+   propiedad: valor;
+}
